@@ -14,3 +14,4 @@ elif 10 <= a:
     precio = a*1.85
 
 print("Debe pagar "+str(precio))
+jaaaaaa
