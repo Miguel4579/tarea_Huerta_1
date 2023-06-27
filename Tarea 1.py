@@ -15,3 +15,5 @@ elif 10 <= a:
 
 print("Debe pagar "+str(precio))
 jaaaaaahtr
+
+jejeje
